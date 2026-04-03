@@ -39,7 +39,7 @@ M.Com graduate and Financial Data Analyst with hands-on experience in **Power BI
 - Identified Bengaluru, Mumbai, Hyderabad as top hubs; T-shirts as highest-volume category
 - **Key insight:** 91.13% orders shipped via Amazon Logistics — actionable for inventory & logistics planning
 
-📂 [View Project →](./Amazon-Sales-Dashboard)
+📂 [View Project →](https://bit.ly/4tiNhto)
 
 ---
 
@@ -51,27 +51,19 @@ M.Com graduate and Financial Data Analyst with hands-on experience in **Power BI
 - Department referral chart highlighted General Practice (103) and Orthopedics (65) as high-demand areas
 - Monthly slicers (Jan–Jun) for time-series analysis; structured as a reusable reporting template
 
-📂 [View Project →](./Hospital-ER-Dashboard)
+📂 [View Project →](https://bit.ly/3OeJDBT)
 
 ---
 
-### 3. 📈 Equity Research Report — Tesla Inc.
-**Tools:** Excel · DCF · Relative Valuation | Internship @ Finsckool
+### 3. 🏠 Global Airbnb Performance Dashboard — Power BI
+**Tools:** Power BI · DAX · Data Cleaning · Data Visualization | **2.79M+ listings across 10 cities**
 
-- Analysed Tesla's financial statements; computed 10+ KPIs (P/E, EV/EBITDA, ROE)
-- Built DCF & relative valuation models; visualised trends with structured charts
-- Supported investment decisions through quantitative financial analysis
+- Built interactive dashboard analysing Airbnb's global performance across 2.79M+ listings, 182K+ hosts, and 10 cities worldwide
+- Analysed listing growth trends: 2015 saw highest surge in new listings; 2016–17 slowdown due to regulatory tightening
+- Tracked Airbnb's profitability milestone (late 2016) and first full income-generation year (2017); identified COVID-19 impact on 2019 growth
+- Delivered market share by city, property type analysis, and cross-location rating comparisons for strategic insights
 
-📂 [View Project →](./Tesla-Equity-Research)
-
----
-
-### 4. 🏭 Financial Model — Swaraj Engines Ltd (NSE: SWARAJENG)
-**Tools:** Excel · DCF · Sensitivity Analysis · Scenario Modeling
-
-- Comprehensive Excel financial model covering DCF valuation, relative valuation, sensitivity analysis, and scenario modeling
-
-📂 [View Project →](./Swaraj-Engines-Financial-Model)
+📂 [View Project →](https://bit.ly/4sOo2z3)
 
 ---
 
