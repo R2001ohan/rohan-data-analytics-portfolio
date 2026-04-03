@@ -80,7 +80,6 @@ M.Com graduate and Financial Data Analyst with hands-on experience in **Power BI
 ## 📬 Contact
 
 - 📧 rohanmhetre2001@gmail.com
-- 📞 +91-8767351694
 - 🔗 [LinkedIn](https://linkedin.com/in/rohanmhetre)
 
 ---
