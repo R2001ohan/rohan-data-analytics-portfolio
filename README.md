@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-M.Com graduate and Financial Data Analyst with hands-on experience in **Power BI dashboards**, **Excel analytics**, **SQL**, and **Python (EDA)**. I combine financial domain knowledge (DCF modelling, equity research, NISM Series 8) with data analytics tools to deliver end-to-end business intelligence — from raw data to actionable insights.
+ Financial Data Analyst with hands-on experience in **Power BI dashboards**, **Excel analytics**, **SQL**, and **Python (EDA)**. I combine financial domain knowledge (DCF modelling, equity research, NISM Series 8) with data analytics tools to deliver end-to-end business intelligence — from raw data to actionable insights.
 
 - 🔭 Currently building: Financial dashboards & equity research models under **Rohan Capital Research**
 - 📈 NISM Series 8 Certified | Equity & Derivatives
