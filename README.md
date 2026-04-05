@@ -65,6 +65,17 @@
 
 📂 [View Project →](https://bit.ly/4sOo2z3)
 
+### 4. ☕ Coffee Shop Sales Analysis — Excel
+**Tools:** MS Excel · Pivot Tables · Dynamic Charts · Slicers | **149,116 total footfall across 3 locations**
+
+- Built interactive Excel dashboard analysing $6,98,812 in retail sales across 3 NYC store locations (Astoria, Hell's Kitchen, Lower Manhattan) with month and day-of-week slicers
+- Identified peak sales hours at 9–10 AM via hourly quantity trend chart; weekday analysis showed Monday & Friday as highest footfall days
+- Top product: Barista Espresso ($91,406) followed by Brewed Chai Tea ($77,082) and Gourmet Brewed Coffee ($70,035)
+- Coffee category dominates at 39% of sales; size distribution shows Large & Regular orders split equally at 30% each
+- KPI cards track Total Sales, Footfall (149K+), Avg Bill/Person ($4.69), and Avg Order/Person (1.44) for quick management review
+
+📂 [View Project →](https://bit.ly/4cppQJ3)
+
 ---
 
 ## 🎓 Education & Certifications
