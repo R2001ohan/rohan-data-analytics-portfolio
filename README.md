@@ -31,7 +31,17 @@
 
 ## 📁 Projects
 
-### 1. 🛒 Amazon E-Commerce Sales Dashboard — Power BI
+### 1. 🏙️ Dubai Real Estate Intelligence Dashboard — Power BI
+**Tools:**  Excel Power BI · DAX · Power Query · M Code | **50,000 property listings**
+
+Built end-to-end dashboard analysing AED 11.24B in UAE property inventory across neighborhoods, bedrooms, and listing categories
+DAX measures for dynamic KPIs (Total Listings, Avg Price, Avg Price/Sqft, Highest Price); Power Query for ETL & data cleaning
+Identified High-End tier dominates at 50% of inventory, with Budget and Mid-Range each at 25% — signalling top-end oversupply risk
+Key insight: Neighborhood pricing is nearly flat (Urban AED 227K, Rural AED 224K, Suburb AED 223K) — Category and Bedrooms drive price, not Zone — actionable for investor targeting and developer pipeline planning
+
+📁 View Project →https://www.linkedin.com/posts/rohanmhetre_powerbi-dataanalyst-dataanalytics-ugcPost-7452194475990216706-4yrd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJfMigBlO16_F1o852di79Mlcul8YHgSdY
+
+### 2. 🛒 Amazon E-Commerce Sales Dashboard — Power BI
 **Tools:** Power BI · DAX · Power Query · Excel | **18,000+ order records**
 
 - Built end-to-end dashboard analysing ₹11,579K in Amazon sales across courier status, fulfilment channels, product categories, and shipping cities
@@ -43,7 +53,7 @@
 
 ---
 
-### 2. 🏥 Hospital Emergency Room Analytics — Excel
+### 3. 🏥 Hospital Emergency Room Analytics — Excel
 **Tools:** MS Excel · Pivot Tables · Dynamic Charts · Slicers | **513 patients**
 
 - Interactive Excel dashboard tracking 513 patients across gender, age groups (0–79), admission rates (52.4%), and satisfaction score (4.96/5)
@@ -55,7 +65,7 @@
 
 ---
 
-### 3. 🏠 Global Airbnb Performance Dashboard — Power BI
+### 4. 🏠 Global Airbnb Performance Dashboard — Power BI
 **Tools:** Power BI · DAX · Data Cleaning · Data Visualization | **2.79M+ listings across 10 cities**
 
 - Built interactive dashboard analysing Airbnb's global performance across 2.79M+ listings, 182K+ hosts, and 10 cities worldwide
@@ -65,7 +75,7 @@
 
 📂 [View Project →](https://bit.ly/4sOo2z3)
 
-### 4. ☕ Coffee Shop Sales Analysis — Excel
+### 5. ☕ Coffee Shop Sales Analysis — Excel
 **Tools:** MS Excel · Pivot Tables · Dynamic Charts · Slicers | **149,116 total footfall across 3 locations**
 
 - Built interactive Excel dashboard analysing $6,98,812 in retail sales across 3 NYC store locations (Astoria, Hell's Kitchen, Lower Manhattan) with month and day-of-week slicers
